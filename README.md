@@ -18,11 +18,19 @@
 **its Jk 😁 anything else too [Connect with me here](https://www.linkedin.com/in/mohammed-farhaan-n-5b45b7214/)**
 
  </div>
+ 
+ <h2 align="center">Social media </h2>
  <br/>
  <div align="center"> 
     <a href="https://www.linkedin.com/in/mohammed-farhaan-n-5b45b7214/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
     <a href="https://github.com/Mohammed-Farhaan-N" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github"/></a>
 </div>
+
+ <h2 align="center">Blogs</h2>
+ <br/>
+ <div align="center"> 
+    <a href="https://mohammedfarhaan.hashnode.dev/" target="_blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+    <a href="[https://github.com/Mohammed-Farhaan-N](https://medium.com/@mohammedfarhaan)" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
