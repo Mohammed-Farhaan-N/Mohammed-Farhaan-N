@@ -34,7 +34,7 @@
  <h2 align="center">Blogs</h2>
  <div align="center"> 
     <a href="https://mohammedfarhaan.hashnode.dev/" target="_blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-    <a href="[https://github.com/Mohammed-Farhaan-N](https://medium.com/@mohammedfarhaan)" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+    <a href="https://medium.com/@mohammedfarhaan" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </div>
 
  <br/>
