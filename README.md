@@ -18,10 +18,11 @@
 **its Jk 😁 anything else too [Connect with me here](https://www.linkedin.com/in/mohammed-farhaan-n-5b45b7214/)**
 
  </div>
- 
+ <br/>
  <div align="center"> 
-    <a href="https://www.linkedin.com/in/mohammed-farhaan-n-5b45b7214/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=aws"/></a>
-</p>
+    <a href="https://www.linkedin.com/in/mohammed-farhaan-n-5b45b7214/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
+    <a href="https://github.com/Mohammed-Farhaan-N" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github"/></a>
+</div>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
