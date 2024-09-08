@@ -7,9 +7,7 @@
     <img src="https://skillicons.dev/icons?i=kali,elasticsearch,maven,gradle,go,html,css,js,java,mysql" /><br>
 </div>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <h2>Just Relax! </h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mohammed-Farhaan-N/Mohammed-Farhaan-N/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
