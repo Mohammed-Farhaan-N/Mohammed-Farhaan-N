@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=80&duration=1300&pause=1000&color=BE2ED6&background=FFFFFF00&center=true&vCenter=true&width=1200&height=150&lines=Hey+There!++%F0%9F%91%8B;I'm+Batman++%F0%9F%A6%87%F0%9F%A6%B8%E2%80%8D%E2%99%82%EF%B8%8F;Oops!!!!!;I'm+Mohammed+Farhaan!++%F0%9F%98%81" />
+        <img src="https://readme-typing-    svg.demolab.comfont=Rubik&weight=600&size=80&duration=1300&pause=1000&color=BE2ED6&background=FFFFFF00&center=true&vCenter=true&width=1200&height=150&lines=Hey+There!++%F0%9F%91%8B;I'm+Batman++%F0%9F%A6%87%F0%9F%A6%B8%E2%80%8D%E2%99%82%EF%B8%8F;Oops!!!!!;I'm+Mohammed+Farhaan!++%F0%9F%98%81" />
 </h1>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
