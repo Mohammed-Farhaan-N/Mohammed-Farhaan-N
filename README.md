@@ -2,6 +2,20 @@
     <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=80&duration=1100&pause=1000&color=BE2ED6&background=FFFFFF00&center=true&vCenter=true&width=1200&height=150&lines=Hey+There!++%F0%9F%91%8B;I'm+Batman++%F0%9F%A6%87%F0%9F%A6%B8%E2%80%8D%E2%99%82%EF%B8%8F;Oops!!!!!;I'm+Mohammed+Farhaan!++%F0%9F%98%81" alt="Typing SVG" />
 </h1>
 
+<h3 align="center">🔥 A Passionate Cloud, DevSecOps, and Software Engineer on a mission to build cutting-edge, secure, and scalable solutions. Always pushing the limits of innovation. 🔥</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m Currently Focused On **Leveling up my skills and expertise**
+ 
+ 🌱 I’m currently learning **Kubernetes, AWS, Security**
+
+💬 Trust me Don't Ever ask me about anything except **Cloud, Security, DevOps... or  honestly, its Jk 😁 anything else too [Connect with me here](https://www.linkedin.com/in/mohammed-farhaan-n-5b45b7214/)**
+
+ </div>
+ 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
