@@ -4,7 +4,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=Jenkins,docker,kubernetes,terraform,ansible,github,git" />
-    <img src="https://skillicons.dev/icons?i=sonarqube,vault,trivy,owasp,nexus,prometheus,grafana,elk," />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,ansible,aws,azure,gcp,github,git" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,prometheus,grafana,elasticsearch,maven,gradle,py,go,bash,html,css,js,java,mysql" /><br>
 </div>
