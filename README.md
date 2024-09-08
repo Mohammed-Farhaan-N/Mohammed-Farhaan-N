@@ -37,12 +37,16 @@
     <a href="[https://github.com/Mohammed-Farhaan-N](https://medium.com/@mohammedfarhaan)" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </div>
 
+ <br/>
+ 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,jenkins,docker,kubernetes,terraform,ansible,aws,azure,gcp,github,git,prometheus,grafana,py,bash" />
     <img src="https://skillicons.dev/icons?i=kali,elasticsearch,maven,gradle,go,html,css,js,java,mysql" /><br>
 </div>
+
+ <br/>
+
 <div align="center">
   <h2>Just Relax! </h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mohammed-Farhaan-N/Mohammed-Farhaan-N/output/github-contribution-grid-snake.svg" />
