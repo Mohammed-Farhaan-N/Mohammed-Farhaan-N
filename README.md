@@ -22,13 +22,8 @@
  <h2 align="center">Social media </h2>
  <br/>
  <div align="center"> 
-    <a href="https://www.linkedin.com/in/mohammed-farhaan-n-5b45b7214/" target="_blank">
-      <img align="center" src="https://skillicons.dev/icons?i=linkedin"/>
-    </a>
-     <a href="https://github.com/Mohammed-Farhaan-N" target="_blank">
-      <img align="center" src="https://skillicons.dev/icons?i=github"/>
-    </a>
-    [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammed-farhaan-n-5b45b7214)
+    <a href="https://www.linkedin.com/in/mohammed-farhaan-n-5b45b7214/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
+    <a href="https://github.com/Mohammed-Farhaan-N" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github"/></a>
 </div>
 
  <h2 align="center">Blogs</h2>
