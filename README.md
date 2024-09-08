@@ -7,3 +7,10 @@
     <img src="https://skillicons.dev/icons?i=linux,jenkins,docker,kubernetes,terraform,ansible,aws,azure,gcp,github,git,prometheus,grafana,py,bash" />
     <img src="https://skillicons.dev/icons?i=kali,elasticsearch,maven,gradle,go,html,css,js,java,mysql" /><br>
 </div>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
