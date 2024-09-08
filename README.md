@@ -15,15 +15,15 @@
 
 💬 Trust me Don't Ever ask me about anything except **Cloud, Security, DevOps... or  honestly** 
 
-**its Jk 😁 anything else too [Connect with me here](https://www.linkedin.com/in/mohammed-farhaan-n-5b45b7214/)**
+**its Jk 😁 anything else too**
 
  </div>
   <br/>
- <h2 align="center">Social media </h2>
+ <h2 align="center">Connect with me here!</h2>
  <div align="center"> 
     <a href="https://www.linkedin.com/in/mohammed-farhaan-n-5b45b7214/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
     <a href="https://github.com/Mohammed-Farhaan-N" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github"/></a>
-     <a href="mohammedfarhaan235@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"/></a>
+     <a href="mailto:mohammedfarhaan235@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"/></a>
 </div>
 
  <h2 align="center">Blogs</h2>
