@@ -9,8 +9,6 @@
 
 <div align="center">
 
-
-
 🚀 What I Do 
 
 ✅ **Software Development** – Designing and building efficient, scalable applications.  
@@ -18,6 +16,9 @@
 ✅ **DevSecOps** – Automating security, CI/CD, and infrastructure as code (IaC).  
 ✅ **System Security** – Implementing best practices to protect applications and infrastructure.  
 
+ </div>
+
+ <div align="center">
 
 🔭 Currently Exploring  
  
