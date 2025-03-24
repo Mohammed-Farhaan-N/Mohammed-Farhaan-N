@@ -3,19 +3,27 @@
 </h1>
 
 <h2 align="center">🔥 A Passionate Software Engineer & Cloud/DevSecOps Engineer 🔥 </h3>
-<h3 align="center">I'm trying to build cutting-edge, secure, and scalable solutions. Always pushing the limits of innovation.</h3>
+<h3 align="center">Innovative and security-focused, I specialize in building scalable, resilient, high-performance solutions across Cloud, DevSecOps, and Software Development. Passionate about integrating security and automation into every aspect of the software lifecycle.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m Currently Focused On **Leveling up my skills and expertise**
- 
- 🌱 I’m currently learning **Kubernetes, AWS, Security**
+🚀 What I Do:
+✔ Cloud Engineering – Architecting and optimizing secure, high-availability cloud solutions.
+✔ Software Development – Designing and building efficient, scalable applications.
+✔ DevSecOps – Automating security, CI/CD, and infrastructure as code (IaC).
+✔ System Security – Implementing best practices to protect applications and infrastructure.
 
-💬 Trust me Don't Ever ask me about anything except **Cloud, Security, DevOps... or  honestly** 
+🔭 Current Focus:
+🔹 Software Engineering – Writing robust, maintainable, and efficient code.
+🔹 Full-Stack Development – Developing end-to-end applications with modern frameworks.
+🔹 AWS & Cloud Security – Securing and optimizing cloud environments.
+🔹 DevSecOps – Embedding security seamlessly into development workflows.
 
-**its Jk 😁 anything else too**
+💬 Let’s Connect!
+I'm always open to discussions on Cloud, Security, DevOps, and Software Development—or anything tech-related! Let's collaborate and innovate.
+
 
  </div>
  
