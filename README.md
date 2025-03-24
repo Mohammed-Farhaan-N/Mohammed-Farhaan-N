@@ -11,7 +11,7 @@
 
 
 
-## 🚀 What I Do 
+🚀 What I Do 
 
 ✅ **Software Development** – Designing and building efficient, scalable applications.  
 ✅ **Cloud Engineering** – Architecting and optimizing secure, high-availability cloud solutions.  
@@ -19,7 +19,7 @@
 ✅ **System Security** – Implementing best practices to protect applications and infrastructure.  
 
 
-## 🔭 Currently Exploring  
+🔭 Currently Exploring  
  
 ✅ **Software Engineering** – Writing robust, maintainable, and efficient code. 
 ✅ **Full-Stack Development** – Developing end-to-end applications with modern frameworks.
@@ -28,7 +28,7 @@
 
 
 
-## 🌐 Connect With Me  
+🌐 Connect With Me  
 <h3 align="center">💬 Always open to discussing **Cloud, Security, DevOps, and Software Development**—or anything tech-related! Let's collaborate and innovate. <h3>
 
 
