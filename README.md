@@ -23,14 +23,14 @@
 ## 🔭 Currently Exploring  
  
 <h3 align="center">🔹 **Software Engineering** – Writing robust, maintainable, and efficient code. <h3>
-🔹 **Full-Stack Development** – Developing end-to-end applications with modern frameworks.
-🔹 **AWS & Cloud Security** – Securing and optimizing cloud environments. 
-🔹 **DevSecOps** – Embedding security seamlessly into development workflows.  
+<h3 align="center">🔹 **Full-Stack Development** – Developing end-to-end applications with modern frameworks.<h3>
+<h3 align="center">🔹 **AWS & Cloud Security** – Securing and optimizing cloud environments. <h3>
+<h3 align="center">🔹 **DevSecOps** – Embedding security seamlessly into development workflows.  <h3>
 
 ---
 
 ## 🌐 Connect With Me  
-💬 Always open to discussing **Cloud, Security, DevOps, and Software Development**—or anything tech-related! Let's collaborate and innovate.  
+<h3 align="center">💬 Always open to discussing **Cloud, Security, DevOps, and Software Development**—or anything tech-related! Let's collaborate and innovate. <h3>
 
 
  </div>
