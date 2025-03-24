@@ -14,11 +14,7 @@
 ✅ **Software Development** – Designing and building efficient, scalable applications.  
 ✅ **Cloud Engineering** – Architecting and optimizing secure, high-availability cloud solutions.  
 ✅ **DevSecOps** – Automating security, CI/CD, and infrastructure as code (IaC).  
-✅ **System Security** – Implementing best practices to protect applications and infrastructure. 
-✅ **Software Engineering** – Writing robust, maintainable, and efficient code. 
-✅ **Full-Stack Development** – Developing end-to-end applications with modern frameworks.
-✅ **AWS & Cloud Security** – Securing and optimizing cloud environments.
-✅ **DevSecOps** – Embedding security seamlessly into development workflows.  
+✅ **System Security** – Implementing best practices to protect applications and infrastructure.   
 
  </div>
 
@@ -28,11 +24,15 @@
 ✅ **Software Engineering** – Writing robust, maintainable, and efficient code. 
 ✅ **Full-Stack Development** – Developing end-to-end applications with modern frameworks.
 ✅ **AWS & Cloud Security** – Securing and optimizing cloud environments.
-✅ **DevSecOps** – Embedding security seamlessly into development workflows.  
+✅ **DevSecOps** – Embedding security seamlessly into development workflows.
+✅ **Software Development** – Designing and building efficient, scalable applications.  
+✅ **Cloud Engineering** – Architecting and optimizing secure, high-availability cloud solutions.  
+✅ **DevSecOps** – Automating security, CI/CD, and infrastructure as code (IaC).  
+✅ **System Security** – Implementing best practices to protect applications and infrastructure.
  </div>
 
 
-<h3 align="center">💬 Always open to discussing **Cloud, Security, DevOps, and Software Development**—or anything tech-related! Let's collaborate and innovate. <h3>
+<h2 align="center">💬 Always open to discussing **Cloud, Security, DevOps, and Software Development**—or anything tech-related! Let's collaborate and innovate. <h2>
 
  
   <br/>
