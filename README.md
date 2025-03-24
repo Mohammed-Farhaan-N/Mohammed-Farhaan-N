@@ -25,12 +25,12 @@
 ✅ **Full-Stack Development** – Developing end-to-end applications with modern frameworks.
 ✅ **AWS & Cloud Security** – Securing and optimizing cloud environments.
 
-✅ **DevSecOps** – Embedding security seamlessly into development workflows.
 
-✅ **Software Development** – Designing and building efficient, scalable applications.  
-✅ **Cloud Engineering** – Architecting and optimizing secure, high-availability cloud solutions.  
-✅ **DevSecOps** – Automating security, CI/CD, and infrastructure as code (IaC).  
-✅ **System Security** – Implementing best practices to protect applications and infrastructure.
+
+✅ **Software Engineering** – Designing and building efficient, scalable applications.  
+✅ **Full-Stack Development** – Architecting and optimizing secure, high-availability cloud solutions.  
+✅ **AWS & Cloud Security** – Automating security, CI/CD, and infrastructure as code (IaC).  
+✅ **DevSecOps** – Embedding security seamlessly into development workflows.
  </div>
 
 
