@@ -4,7 +4,7 @@
 
 <h2 align="center">🔥 A Passionate Full-Stack Software Engineer & Cloud/DevSecOps Engineer 🔥 </h3>
 
-<h4>Passionate about designing and developing secure, scalable, and high-performance solutions.</h4>
+<h3 align="center">Passionate about designing and developing secure, scalable, and high-performance solutions.</h4>
 
 <br/>
 
