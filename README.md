@@ -22,7 +22,7 @@
 
 ## 🔭 Currently Exploring  
  
-🔹 **Software Engineering** – Writing robust, maintainable, and efficient code.
+<h3 align="center">🔹 **Software Engineering** – Writing robust, maintainable, and efficient code. <h3>
 🔹 **Full-Stack Development** – Developing end-to-end applications with modern frameworks.
 🔹 **AWS & Cloud Security** – Securing and optimizing cloud environments. 
 🔹 **DevSecOps** – Embedding security seamlessly into development workflows.  
