@@ -10,18 +10,21 @@
 <div align="center">
  
 🚀 What I Do:
+
 ✔ Cloud Engineering – Architecting and optimizing secure, high-availability cloud solutions.
 ✔ Software Development – Designing and building efficient, scalable applications.
 ✔ DevSecOps – Automating security, CI/CD, and infrastructure as code (IaC).
 ✔ System Security – Implementing best practices to protect applications and infrastructure.
 
 🔭 Current Focus:
+
 🔹 Software Engineering – Writing robust, maintainable, and efficient code.
 🔹 Full-Stack Development – Developing end-to-end applications with modern frameworks.
 🔹 AWS & Cloud Security – Securing and optimizing cloud environments.
 🔹 DevSecOps – Embedding security seamlessly into development workflows.
 
 💬 Let’s Connect!
+
 I'm always open to discussions on Cloud, Security, DevOps, and Software Development—or anything tech-related! Let's collaborate and innovate.
 
 
