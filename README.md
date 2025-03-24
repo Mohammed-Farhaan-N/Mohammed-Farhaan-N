@@ -22,10 +22,10 @@
 
 ## 🔭 Currently Exploring  
  
-<h3 align="center">🔹 **Software Engineering** – Writing robust, maintainable, and efficient code. <h3>
-<h3 align="center">🔹 **Full-Stack Development** – Developing end-to-end applications with modern frameworks.<h3>
-<h3 align="center">🔹 **AWS & Cloud Security** – Securing and optimizing cloud environments. <h3>
-<h3 align="center">🔹 **DevSecOps** – Embedding security seamlessly into development workflows.  <h3>
+<h5 align="center">🔹 **Software Engineering** – Writing robust, maintainable, and efficient code. <h5>
+<h5 align="center">🔹 **Full-Stack Development** – Developing end-to-end applications with modern frameworks.<h5>
+<h5 align="center">🔹 **AWS & Cloud Security** – Securing and optimizing cloud environments. <h5>
+<h4 align="center">🔹 **DevSecOps** – Embedding security seamlessly into development workflows.  <h4>
 
 ---
 
