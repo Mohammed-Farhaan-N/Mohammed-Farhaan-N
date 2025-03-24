@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=80&duration=1100&pause=1000&color=BE2ED6&background=FFFFFF00&center=true&vCenter=true&width=1200&height=150&lines=Hey+There!++%F0%9F%91%8B;I'm+Mohammed+Farhaan!" alt="Typing SVG" />
 </h1>
 
-<h2 align="center">🔥 A Passionate Software Engineer & Cloud/DevSecOps Engineer 🔥 </h3>
+<h2 align="center">🔥 A Passionate Full-Stack Software Engineer & Cloud/DevSecOps Engineer 🔥 </h3>
 
-<h4>Innovative and security-focused, I specialize in building scalable, resilient, high-performance solutions across Cloud, DevSecOps, and Software Development. Passionate about integrating security and automation into every aspect of the software lifecycle.</h4>
+<h4>Passionate about designing and developing secure, scalable, and high-performance solutions.</h4>
 
 <br/>
 
