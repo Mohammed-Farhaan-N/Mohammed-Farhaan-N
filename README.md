@@ -24,7 +24,6 @@
 ✅ **Software Engineering** – Writing robust, maintainable, and efficient code.   
 ✅ **Full-Stack Development** – Developing end-to-end applications with modern frameworks.
 ✅ **AWS & Cloud Security** – Securing and optimizing cloud environments.  
-✅ **AWS & Cloud Security** – Securing and optimizing cloud environments.  
 ✅ **DevSecOps** – Embedding security seamlessly into development workflows.
  </div>
 
