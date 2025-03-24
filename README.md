@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">🔥 A Passionate Software Engineer & Cloud/DevSecOps Engineer 🔥 </h3>
-<h3 align="center">Innovative and security-focused, I specialize in building scalable, resilient, high-performance solutions across Cloud, DevSecOps, and Software Development. Passionate about integrating security and automation into every aspect of the software lifecycle.</h4>
+<h4 align="center">Innovative and security-focused, I specialize in building scalable, resilient, high-performance solutions across Cloud, DevSecOps, and Software Development. Passionate about integrating security and automation into every aspect of the software lifecycle.</h4>
 
 <br/>
 
@@ -23,6 +23,7 @@
 
 ✅ **Software Engineering** – Writing robust, maintainable, and efficient code.   
 ✅ **Full-Stack Development** – Developing end-to-end applications with modern frameworks.
+✅ **AWS & Cloud Security** – Securing and optimizing cloud environments.  
 ✅ **AWS & Cloud Security** – Securing and optimizing cloud environments.  
 ✅ **DevSecOps** – Embedding security seamlessly into development workflows.
  </div>
