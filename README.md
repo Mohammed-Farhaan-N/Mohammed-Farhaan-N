@@ -6,7 +6,7 @@
 
 <h3 align="center">Passionate about designing and developing secure, scalable, and high-performance solutions.</h4>
 
-
+ <br/>
 <div align="center">
 <h2 align="center">🚀 What I Do  & 🔭 Currently Exploring </h2>
 
@@ -24,13 +24,13 @@
     <a href="https://github.com/Mohammed-Farhaan-N" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github"/></a>
 
 </div>
-
+ <br/>
  <h2 align="center">Blogs</h2>
  <div align="center"> 
     <a href="https://mohammedfarhaan.hashnode.dev/" target="_blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
     <a href="https://medium.com/@mohammedfarhaan" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </div>
-
+ <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,jenkins,docker,kubernetes,terraform,ansible,aws,azure,gcp,github,git,prometheus,grafana,py,bash" />
