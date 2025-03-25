@@ -8,6 +8,7 @@
 
 <br/>
 
+<div align="center">
 <h2 align="center">🚀 What I Do  & 🔭 Currently Exploring </h2>
 
 ✅ **Software Development** – Designing and building efficient, scalable applications.  
@@ -18,7 +19,7 @@
  </div>
 
  
-  <br/>
+
   
  <h2 align="center">Connect with me here!</h2>
  <div align="center"> 
