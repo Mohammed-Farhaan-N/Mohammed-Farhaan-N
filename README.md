@@ -8,8 +8,6 @@
 
 <br/>
 
-<div align="center">
-
 <h2 align="center">🚀 What I Do  & 🔭 Currently Exploring </h2>
 
 ✅ **Software Development** – Designing and building efficient, scalable applications.  
@@ -17,7 +15,6 @@
 ✅ **Cloud Engineering** – Architecting and optimizing secure, high-availability cloud solutions.  
 ✅ **System Security** – Implementing best practices to protect applications and infrastructure.  
 ✅ **Full-Stack Development** – Developing end-to-end applications with modern frameworks.
-
  </div>
 
  
